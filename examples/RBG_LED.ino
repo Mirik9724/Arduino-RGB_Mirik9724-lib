@@ -2,7 +2,7 @@
 
 For the library to work correctly, it is necessary to connect the RGB LED to the Analog input or digital inputs marked "~"
 
-RGB_Mirik9724(11, 10, 9);//pinR, pinG, pinB
+RGB_Mirik9724 LED(11, 10, 9);//pinR, pinG, pinB
 void setup() {
   
 }
