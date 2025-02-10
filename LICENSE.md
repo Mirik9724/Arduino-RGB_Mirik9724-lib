@@ -1,17 +1,11 @@
-1 It is forbidden to distribute the project without the consent of the owner (currently Mirik9724).
+1. All rights reserved. The project may become public domain, but without the possibility of monetization.
 
-2 All rights reserved.
+2. By downloading any project files, you agree to the terms of the license.
 
-3 The source code can be studied and inserted into your project.
+3. Distribution of modified or adapted versions of the project is allowed only if the original source is clearly credited in a visible place.
 
-4 Download any project files you agree to the terms.
+4. The owner has the right to make changes and update the project. Users are required to monitor and comply with license updates.
 
-5 It is prohibited to change, modify or adapt the source code of the project without attribution and reference to the source.
+5. You may use any project files as long as you do not violate the license terms.
 
-6 It is prohibited to distribute modified or adapted versions of the project without obtaining the appropriate permission from the owner.
-
-7 The owner has the right to make changes to the project and update it, and users are required to monitor and comply with license updates.
-
-8 You can use any project files if you do not violate the license.
-
-9 You are responsible for your actions and take all risks on yourself.
+6. You are fully responsible for your actions and assume all associated risks.
